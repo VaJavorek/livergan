@@ -76,3 +76,6 @@ def process_tileB(tile: np.array) -> np.array:
 
     result_tile = np.clip(result_tile, 0, 1)
     return result_tile
+
+def process_tile_blank(tile: np.array) -> np.array:
+    return tile
