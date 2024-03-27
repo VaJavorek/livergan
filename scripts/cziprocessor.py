@@ -44,7 +44,7 @@ def process_tileA(tile: np.array) -> np.array:
     result_tile = np.clip(result_tile, 0, 1)
     return result_tile
 
-def process_tileB(tile: np.array) -> np.array:
+def process_tileB(tile: np.array, generator_model) -> np.array:
     if tile.shape[2] != 3:
         raise ValueError("Image ndarray must have 3 channels for RGB.")
 
