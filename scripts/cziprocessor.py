@@ -46,8 +46,8 @@ def create_tile_processorA(generator_model):
         return result_tile
     return process_tileA
 
-def create_tile_processorB(generator_model):
-    def process_tileB(tile: np.array, generator_model) -> np.array:
+def create_tile_processorA(generator_model):
+    def process_tileB(tile: np.array) -> np.array:
         if tile.shape[2] != 3:
             raise ValueError("Image ndarray must have 3 channels for RGB.")
 
