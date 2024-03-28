@@ -10,7 +10,7 @@ import torchvision.transforms as transforms
 from models.networks import define_G
 from collections import OrderedDict
 
-def create_tile_processorA(generator_model):
+def tile_processorA(generator_model):
     def process_tileA(tile: np.array) -> np.array:
         if tile.shape[2] != 3:
             raise ValueError("Image ndarray must have 3 channels for RGB.")
@@ -46,7 +46,7 @@ def create_tile_processorA(generator_model):
         return result_tile
     return process_tileA
 
-def create_tile_processorA(generator_model):
+def tile_processorB(generator_model):
     def process_tileB(tile: np.array) -> np.array:
         if tile.shape[2] != 3:
             raise ValueError("Image ndarray must have 3 channels for RGB.")
