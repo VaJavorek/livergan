@@ -16,7 +16,7 @@ This is a repository for a master's thesis work, developed by [Václav Javorek](
 **BtoA** = Live to decellularized domain transfer
 
 ## Demo examples
-
+Example [colab](https://colab.research.google.com/drive/1t37bkfKHP6NpLtD5jlUkbahKO65xXX0P?usp=sharing) - transformation inference
 Example [colab](https://colab.research.google.com/drive/1DDdi8x68rShRWBMQPJ9aq9zxtGmUsFqM?usp=sharing) - splitting, processing and merging back a whole slide (.czi) image
 
 ## Models comparison
