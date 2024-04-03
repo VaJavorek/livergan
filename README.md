@@ -5,7 +5,7 @@ Using GANs to transform the domain of large microscopic liver images obtained fr
 <img src="/img/examples/default_A1.png" width="400"/> <img src="/img/examples/default_A2.png" width="400"/> 
 <img src="/img/examples/default_B1.png" width="400"/> <img src="/img/examples/default_B2.png" width="400"/>
 
-By conquering this domain gap, we can overcome the constraints of liver tissue analysis and unlock new possibilities for comprehensive image-based studies, for example, using proven analysis tools from the [scaffan](https://github.com/mjirik/scaffan) library in the desired domain and comparing the results of the selected metric.
+By erasing this domain gap, we can overcome some of the constraints of liver tissue analysis and unlock new possibilities for comprehensive image-based studies, for example, using proven analysis tools from the [scaffan](https://github.com/mjirik/scaffan) library in the desired domain and comparing the results of given selected metric with comparable data. This allows further higher quality evaluation of the sample.
 
 ## About
 
