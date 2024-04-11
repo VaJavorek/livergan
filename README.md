@@ -34,14 +34,6 @@ BtoA
 
 <img src="/img/FID.jpg" width="300"/>
 
-AtoB
-
-<img src="/img/comparison/final/Comparison_PIG-002_J-18-0092_HE__-1_split_1039.png" width="400"/> <img src="/img/comparison/final/Comparison_PIG-002_J-18-0092_HE__-1_split_1061.png" width="400"/> 
-
-BtoA
-
-<img src="/img/comparison/final/Comparison_J10_3_a_split_947.png" width="400"/> <img src="/img/comparison/final/Comparison_J10_3_b_split_1166.png" width="400"/>
-
 ## Merging examples
 
 AtoB + post-processing
