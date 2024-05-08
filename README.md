@@ -7,6 +7,8 @@ Using GANs to transform the domain of large microscopic liver images obtained fr
 
 By erasing this domain gap, we can overcome some of the constraints of liver tissue analysis and unlock new possibilities for comprehensive image-based studies, for example, using proven analysis tools from the [scaffan](https://github.com/mjirik/scaffan) library in the desired domain and comparing the results of given selected metric with comparable data. This allows further higher quality evaluation of the sample.
 
+<img src='img/fade.gif' width=800>
+
 ## About
 
 This is a repository for a master's thesis work, developed by [Václav Javorek](https://github.com/vjavorek) under the supervision of [Miroslav Jiřík](https://github.com/mjirik).
