@@ -1,6 +1,6 @@
 # livergan - Image Domain Transfer for Liver Analysis in Histology
 
-Using GANs to transform the domain of large microscopic liver images obtained from live samples into a different domain that represents decellularized liver tissue.
+Using GANs to transform the domain of large microscopic porcine liver images obtained from native samples into a different domain that represents decellularized liver tissue.
 
 <img src="/img/examples/default_A1.png" width="400"/> <img src="/img/examples/default_A2.png" width="400"/> 
 <img src="/img/examples/default_B1.png" width="400"/> <img src="/img/examples/default_B2.png" width="400"/>
@@ -13,9 +13,9 @@ By erasing this domain gap, we can overcome some of the constraints of liver tis
 
 This is a repository for a master's thesis work, developed by [Václav Javorek](https://github.com/vjavorek) under the supervision of [Miroslav Jiřík](https://github.com/mjirik).
 
-**AtoB** = Decellularized to live domain transfer
+**AtoB** = Decellularized to native domain transfer
 
-**BtoA** = Live to decellularized domain transfer
+**BtoA** = Native to decellularized domain transfer
 
 ## Demo examples
 Example [colab](https://colab.research.google.com/drive/1t37bkfKHP6NpLtD5jlUkbahKO65xXX0P?usp=sharing) - transformation inference
