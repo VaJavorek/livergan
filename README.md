@@ -1,4 +1,4 @@
-# livergan - Image Domain Transfer for Liver Analysis in Histology
+# LiverGAN - Image Domain Transfer for Liver Analysis in Histology
 
 Using GANs to transform the domain of large microscopic porcine liver images obtained from native samples into a different domain that represents decellularized liver tissue.
 
